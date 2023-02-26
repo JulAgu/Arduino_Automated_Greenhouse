@@ -1,5 +1,5 @@
 # Arduino_Automated_Greenhouse
-Arduino Automated Greenhouse Developed as an agricultural engineering control project in 2023.
+Arduino Automated Greenhouse Developed as an agricultural engineering control project in 2022.
 
 This project consisted of a script that measures relative humidity, temperature and sunlight, and makes decisions about actuators (fans and lights) based on thermal and water comfort ranges for vegetable garden species.
 
