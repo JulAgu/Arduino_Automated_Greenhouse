@@ -7,4 +7,5 @@ The greenhouse interacts with an application built with the MIT App Inventor env
 
 The project is not functional at present, I put it in this repository to inspire and contribute to similar projects, the hardware was disassembled and I stopped maintaining the database.
 
-This proyect incluted all the mechanical and software conception. It was my first scale model of automated controlled environments.
+This proyect included all the mechanical and software conception. It was my first scale model of automated controlled environments.
+
